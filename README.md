@@ -7,7 +7,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="shopping.css">
+    <link rel="stylesheet" href="OnlineShopping.CSS">
     <title>Nike Store</title>
 </head>
 
@@ -15,12 +15,12 @@
     <nav id="nav">
         <div class="navTop">
             <div class="navItem">
-                <img src="/IMAGES/sneakers.png" alt="">
+                <img src="/images/sneakers.png" alt="">
             </div>
             <div class="navItem">
                 <div class="search">
                     <input type="text" placeholder="Search..." class="searchInput">
-                    <img src="/IMAGES/search.png" width="20" height="20" alt="" class="searchIcon">
+                    <img src="/images/search.png" width="20" height="20" alt="" class="searchIcon">
                 </div>
             </div>
             <div class="navItem">
@@ -38,7 +38,7 @@
     <div class="slider">
         <div class="sliderWrapper">
             <div class="sliderItem">
-                <img src="/IMAGES/air.png" alt="" class="sliderImg">
+                <img src="/images/air.png" alt="" class="sliderImg">
                 <div class="sliderBg"></div>
                 <h1 class="sliderTitle">AIR FORCE</br> NEW</br> SEASON</h1>
                 <h2 class="sliderPrice">₹5000</h2>
@@ -47,7 +47,7 @@
                 </a>
             </div>
             <div class="sliderItem">
-                <img src="/IMAGES/jordan.png" alt="" class="sliderImg">
+                <img src="/images/jordan.png" alt="" class="sliderImg">
                 <div class="sliderBg"></div>
                 <h1 class="sliderTitle">AIR JORDAN</br> NEW</br> SEASON</h1>
                 <h2 class="sliderPrice">₹2999</h2>
@@ -56,7 +56,7 @@
                 </a>
             </div>
             <div class="sliderItem">
-                <img src="/IMAGES/blazer.png" alt="" class="sliderImg">
+                <img src="/images/blazer.png" alt="" class="sliderImg">
                 <div class="sliderBg"></div>
                 <h1 class="sliderTitle">BLAZER</br> NEW</br> SEASON</h1>
                 <h2 class="sliderPrice">₹1999</h2>
@@ -65,7 +65,7 @@
                 </a>
             </div>
             <div class="sliderItem">
-                <img src="/IMAGES/crater.png" alt="" class="sliderImg">
+                <img src="/images/crater.png" alt="" class="sliderImg">
                 <div class="sliderBg"></div>
                 <h1 class="sliderTitle">CRATER</br> NEW</br> SEASON</h1>
                 <h2 class="sliderPrice">₹1129</h2>
@@ -74,7 +74,7 @@
                 </a>
             </div>
             <div class="sliderItem">
-                <img src="/IMAGES/hippie.png" alt="" class="sliderImg">
+                <img src="/images/hippie.png" alt="" class="sliderImg">
                 <div class="sliderBg"></div>
                 <h1 class="sliderTitle">HIPPIE</br> NEW</br> SEASON</h1>
                 <h2 class="sliderPrice">₹999</h2>
@@ -87,12 +87,12 @@
    
     <div class="features">
         <div class="feature">
-            <img src="/IMAGES/shipping.png" alt="" class="featureIcon">
+            <img src="/images/shipping.png" alt="" class="featureIcon">
             <span class="featureTitle">FREE SHIPPING</span>
             <span class="featureDesc">Free worldwide shipping on all orders.</span>
         </div>
         <div class="feature">
-            <img class="featureIcon" src="/IMAGES/return.png" alt="">
+            <img class="featureIcon" src="/images/return.png" alt="">
             <span class="featureTitle">30 DAYS RETURN</span>
             <span class="featureDesc">No question return and easy refund in 14 days.</span>
         </div>
@@ -109,7 +109,7 @@
     </div>
 
     <div class="product" id="product">
-        <img src="/IMAGES/air2.png" alt="" class="productImg">
+        <img src="/images/air2.png" alt="" class="productImg">
         <div class="productDetails">
             <h1 class="productTitle">AIR FORCE</h1>
             <h2 class="productPrice">₹1199</h2>
@@ -137,8 +137,8 @@
             <input type="text" placeholder="Raithunagar 52" class="payInput">
             <h1 class="payTitle">Card Information</h1>
             <div class="cardIcons">
-                <img src="/IMAGES/visa.png" width="40" alt="" class="cardIcon">
-                <img src="/IMAGES/master.png" alt="" width="40" class="cardIcon">
+                <img src="/images/visa.png" width="40" alt="" class="cardIcon">
+                <img src="/images/master.png" alt="" width="40" class="cardIcon">
             </div>
             <input type="password" class="payInput" placeholder="Card Number">
             <div class="cardInfo">
@@ -153,23 +153,23 @@
     <div class="gallery">
         <div class="galleryItem">
             <h1 class="galleryTitle">Be Yourself!</h1>
-            <img src="/IMAGES/IMG-20231118-WA0012.jpg"
+            <img src="/images/IMG-20231118-WA0016.jpg"
                 alt="" class="galleryImg">
         </div>
         <div class="galleryItem">
-            <img src="/IMAGES/IMG-20231118-WA0013.jpg"
+            <img src="/images/IMG-20231118-WA0015.jpg"
                 alt="" class="galleryImg">
             <h1 class="galleryTitle">This is the First Day of Your New Life</h1>
         </div>
         <div class="galleryItem">
             <h1 class="galleryTitle">Just Do it!</h1>
-            <img src="/IMAGES/IMG-20231118-WA0014.jpg"
+            <img src="/images/IMG-20231118-WA0014.jpg"
                 alt="" class="galleryImg">
         </div>
     </div>
     <div class="newSeason">
         <div class="nsItem">
-            <img src="/IMAGES/IMG-20231118-WA0015.jpg"
+            <img src="/images/IMG-20231118-WA0013.jpg"
                 alt="" class="nsImg">
         </div>
         <div class="nsItem">
@@ -181,7 +181,7 @@
             </a>
         </div>
         <div class="nsItem">
-            <img src="/IMAGES/IMG-20231118-WA0016.jpg"
+            <img src="/images/IMG-20231118-WA0012.jpg"
                 alt="" class="nsImg">
         </div>
     </div>
@@ -229,10 +229,10 @@
             <div class="footerRightMenu">
                 <h1 class="fMenuTitle">Follow Us</h1>
                 <div class="fIcons">
-                    <img src="/IMAGES/facebook.png" alt="" class="fIcon">
-                    <img src="/IMAGES/twitter.png" alt="" class="fIcon">
-                    <img src="/IMAGES/instagram.png" alt="" class="fIcon">
-                    <img src="/IMAGES/whatsapp.png" alt="" class="fIcon">
+                    <img src="/images/facebook.png" alt="" class="fIcon">
+                    <img src="/images/twitter.png" alt="" class="fIcon">
+                    <img src="/images/instagram.png" alt="" class="fIcon">
+                    <img src="/images/whatsapp.png" alt="" class="fIcon">
                 </div>
             </div>
             <div class="footerRightMenu">
