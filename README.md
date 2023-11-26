@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="OnlineShopping.CSS">
     <title>Nike Store</title>
 </head>
-
 <body>
     <nav id="nav">
         <div class="navTop">
@@ -84,7 +83,6 @@
             </div>
         </div>
     </div>
-   
     <div class="features">
         <div class="feature">
             <img src="/images/shipping.png" alt="" class="featureIcon">
@@ -97,17 +95,16 @@
             <span class="featureDesc">No question return and easy refund in 14 days.</span>
         </div>
         <div class="feature">
-            <img class="featureIcon" src="/IMAGES/gift.png" alt="">
+            <img class="featureIcon" src="/images/gift.png" alt="">
             <span class="featureTitle">GIFT CARDS</span>
             <span class="featureDesc">Buy gift cards and use coupon codes easily.</span>
         </div>
         <div class="feature">
-            <img class="featureIcon" src="/IMAGES/contact.png" alt="">
+            <img class="featureIcon" src="/images/contact.png" alt="">
             <span class="featureTitle">CONTACT US!</span>
             <span class="featureDesc">Keep in touch via email and support system.</span>
         </div>
     </div>
-
     <div class="product" id="product">
         <img src="/images/air2.png" alt="" class="productImg">
         <div class="productDetails">
